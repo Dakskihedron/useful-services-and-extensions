@@ -1,4 +1,4 @@
-# useful-services-and-extensions
+# useful-and-free
 WIP: will improve look and provide descriptions later on.
 
 - Bitwarden
